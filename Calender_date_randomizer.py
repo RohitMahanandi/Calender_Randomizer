@@ -1,6 +1,6 @@
 
 import random
-
+#git status check
 import string
 list1 = list()
 present_elements = []
